@@ -1,0 +1,1 @@
+# Contains the database class which is used to interact with the database
